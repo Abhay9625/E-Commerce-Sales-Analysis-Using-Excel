@@ -5,6 +5,9 @@ Hello, Connections!
 ✨✨ I am thrilled to announced that I recently completed a project on E-Commerce and Sales analysis using Excel.
 
 
+Project-  * E-Commerce and Sales analysis using Excel *
+
+
 
 🔎*Objective:* The aim is to leverage insights from recent sales data to identify high-performing products and categories, understand seasonal trends, and optimize marketing strategies. This includes addressing profit margins, shipping costs, and discount practices to enhance overall sales performance and profitability across our product lines.
 
